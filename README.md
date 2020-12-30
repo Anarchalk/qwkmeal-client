@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Documentation
 
-You can find [user stories](https://gist.github.com/Anarchalk/bebf6edef39ac1874dde90bdc2a6aaa7) 
+You can find [user stories](https://gist.github.com/Anarchalk/bebf6edef39ac1874dde90bdc2a6aaa7) here.
 
 ### `npm start`
 
