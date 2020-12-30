@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Documentation
 
-In the project directory, you can run:
+You can find [user stories](https://gist.github.com/Anarchalk/bebf6edef39ac1874dde90bdc2a6aaa7) 
 
 ### `npm start`
 
