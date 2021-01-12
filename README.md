@@ -1,6 +1,6 @@
 # QwkMeal web app
 
-QwkMeal is a fully responsive, mobile first weekly meal planning web application. The app utilized Spoonacular API to retrie0ve thousands of recipes. Users can create their own weekly plan by simply searching meals using meal name, ingredients or choose to get randomly generated weekly meal plan. Users can modify the recipes once its saved. App has a feature to generate grocery list in accordance with ingredients with its price as well as total weekly meal cost.  
+QwkMeal is a fully responsive, mobile first weekly meal planning web application. The app utilized Spoonacular API to retrieve thousands of recipes. Users can create their own weekly plan by simply searching meals using meal name, ingredients or choose to get randomly generated weekly meal plan. Users can modify the recipes once its saved. App has a feature to generate grocery list in accordance with ingredients with its price as well as total weekly meal cost.  
 
 ## Documentation
 
