@@ -1,0 +1,19 @@
+#logo{
+    width:30%;
+    height: auto;
+}
+
+.logo{
+    display: inline-flex;
+}
+
+.nav-items{
+    margin-top: 1em;
+}
+#mag{
+    margin-inline-start:6em;
+}
+
+#prof{
+    margin-inline-start:1em;
+}
